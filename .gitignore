@@ -1,0 +1,54 @@
+# Visual Studio cache and user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
+ipch/
+
+# C/C++ build artifacts
+*.obj
+*.iobj
+*.pch
+*.ipch
+*.pdb
+*.ipdb
+*.idb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.recipe
+*.tlog
+*.lastbuildstate
+*.log
+
+# Visual Studio generated databases
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.VC.opendb
+
+# Auto-recovery and temporary files
+~AutoRecover.*
+*.tmp
+*.tmp_proj
+*.bak
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Compressed copies of folders already present in this repository
+*.rar
